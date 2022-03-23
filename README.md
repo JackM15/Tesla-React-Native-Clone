@@ -1,6 +1,6 @@
 ## Tesla React Native Clone
 
-**A clone of the Tesla website in react native.**
+**A clone of the Tesla website in React Native.**
 **This was a quick project to get up to speed using React Native**
 
 Screenshot Below on an Android device.
