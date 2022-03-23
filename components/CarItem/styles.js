@@ -29,6 +29,11 @@ const styles = StyleSheet.create({
     fontSize: 16,
     color: "#5c5e62",
   },
+  subtitleCTA: {
+    fontSize: 16,
+    color: "#5c5e62",
+    textDecorationLine: "underline",
+  },
 })
 
 export default styles
